@@ -1,0 +1,100 @@
+103.235.47.231 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | Hong Kong
+110.242.69.171 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+180.101.50.188 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+124.166.232.95 | 6000 | baidu.com | China
+157.0.148.22 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+124.166.232.101 | 9191 | baidu.com | China
+60.6.196.46 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto,60.in-addr.arpa | China
+220.181.111.134 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+112.34.113.146 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+180.97.198.46 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+180.101.212.109 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+220.181.111.111 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+103.211.221.77 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+149.30.194.79 | 443 | baidu.com | Hong Kong
+112.34.113.129 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+180.97.93.73 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+112.34.113.133 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+113.62.122.32 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+92.122.10.130 | 443 | baidu.com,akamaitechnologies.com | United Arab Emirates
+39.156.66.10 | 443 | baidu.com,baidu.com.cn,baidu.cn,baidu.hk,baidu.net.au,baidu.net.ph,baidu.net.tw,baidu.com.hk,baidu.net.vn | China
+180.97.93.155 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+163.177.18.146 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+113.24.226.89 | 443 | baidu.com | China
+14.215.182.97 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+103.235.45.240 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | Hong Kong
+124.166.232.106 | 8086 | baidu.com | China
+124.166.232.122 | 19000 | baidu.com | China
+163.177.17.43 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+39.156.68.1 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+153.3.237.184 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+180.97.64.47 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+220.181.43.173 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+223.109.81.44 | 443 | baidu.com | China
+153.3.238.248 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+180.76.5.94 | 80 | baidu.com | Japan
+180.101.51.224 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+121.228.178.40 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+124.166.232.119 | 9009 | baidu.com | China
+111.206.209.209 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+180.97.107.70 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+14.215.183.110 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+120.79.185.234 | 443 | baidu.com | China
+61.243.25.49 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+124.166.232.113 | 8787 | baidu.com | China
+180.101.50.136 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+180.97.107.33 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+23.38.54.42 | 443 | baidu.com,akamaitechnologies.com | India
+121.228.183.215 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+183.6.224.64 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+182.61.62.116 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+61.135.162.226 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+157.148.69.68 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+121.228.183.52 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+106.122.248.32 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+180.101.51.57 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+14.215.182.153 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+149.30.195.195 | 443 | baidu.com | Hong Kong
+45.113.194.103 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | Hong Kong
+180.97.108.242 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+36.110.192.165 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+111.170.25.139 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+153.3.237.179 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+121.31.6.139 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+124.166.232.104 | 444 | baidu.com | China
+112.34.111.30 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+39.156.68.41 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+45.113.194.202 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | Hong Kong
+124.166.232.99 | 6000 | baidu.com | China
+183.240.98.19 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+112.34.111.148 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+39.156.66.131 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+111.206.209.74 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+180.101.51.233 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+113.24.226.113 | 443 | baidu.com | China
+220.181.107.165 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+218.94.231.47 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+180.97.93.68 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+182.61.248.46 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+157.148.69.206 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+183.2.172.46 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+111.206.208.83 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+103.235.47.188 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | Hong Kong
+112.34.112.219 | 443 | baidu.com | China
+110.242.69.139 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+120.222.198.49 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+111.206.210.57 | 443 | baidu.com | China
+104.124.178.50 | 443 | baidu.com,akamaitechnologies.com | United Kingdom
+112.34.117.223 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+112.34.111.190 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+103.235.46.96 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | Hong Kong
+111.40.191.31 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+111.206.208.133 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+117.92.174.7 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+23.206.17.247 | 443 | baidu.com,akamaitechnologies.com | Germany
+180.97.93.3 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+111.63.48.138 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+180.101.49.175 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+180.97.94.219 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+182.61.244.240 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China
+39.156.69.225 | 443 | dwz.cn,baidu.cn,nuomi.com,baidu.com.cn,baidu.com,baifubao.com,apollo.auto | China

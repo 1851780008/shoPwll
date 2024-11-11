@@ -1,0 +1,95 @@
+202.142.225.12 | 443 | ytimg.com,googleusercontent.com,google.com,xn--ngstr-lra8j.com | Japan
+104.133.128.197 | 2404 | google.com | United States
+104.133.128.104 | 631 | google.com | United States
+104.133.128.137 | 9013 | google.com | United States
+142.250.115.132 | 443 | blogspot.co.uk,blogspot.gr,blogspot.com.by,blogspot.md,blogspot.mk,blogspot.it,blogspot.qa,blogspot.rs,blogspot.is,blogspot.com.br,blogspot.in,blogspot.lu,blogspot.tw,blogspot.pe,blogspot.com,blogspot.kr,blogspot.lt,blogspot.no,blogspot.mx,blogspot.ie,1e100.net,blogspot.pt,blogspot.my,blogspot.com.mt,blogspot.co.il,blogspot.bg,blogspot.be,blogspot.co.id,blogspot.com.uy,blogspot.ba,blogspot.com.tr,blogspot.sk,blogspot.ru,blogspot.com.es,blogspot.fr,blogspot.com.ar,blogspot.li,blogspot.com.cy,blogspot.co.za,blogspot.hu,blogspot.com.au,blogspot.vn,blogspot.co.ke,blogspot.hk,blogspot.co.at,blogspot.si,blogspot.jp,blogspot.de,blogspot.fi,blogspot.sg,blogspot.ro,blogspot.ug,blogspot.dk,blogspot.cl,blogspot.com.co,blogspot.ae,blogspot.ch,blogspot.al,blogspot.am,blogspot.sn,blogspot.ca,blogspot.co.nz,blogspot.com.ee,blogspot.cz,blogspot.nl,blogspot.hr,blogspot.se,blogspot.com.eg,blogspot.com.ng | United States
+203.176.177.26 | 8080 | google.com | Indonesia
+185.8.129.207 | 2086 | google.com | Turkey
+104.133.128.64 | 1981 | google.com | United States
+142.251.116.101 | 443 | googleoptimize-cn.com,gkecnapps.cn,googletraveladservices-cn.com,youtube.com,youtu.be,youtubeeducation.com,gvt2-cn.com,urchin.com,doubleclick.cn,googlesandbox-cn.com,ggpht.cn,widevine.cn,ampproject.net.cn,google.com,admob-cn.com,1e100.net,googletagmanager-cn.com,googlevads-cn.com,googleadservices-cn.com,googlecommerce.com,youtubekids.com,googletagservices-cn.com,recaptcha-cn.net,goo.gl,googlesyndication-cn.com,googleapis-cn.com,dartsearch-cn.net,yt.be,googlecnapps.cn,app-measurement-cn.com,recaptcha.net.cn,ampproject.org.cn,android.com,doubleclick-cn.net,google-analytics-cn.com,googleapps-cn.com,gvt1-cn.com,googleflights-cn.net,2mdn-cn.net,google-analytics.com,g.cn,g.co,googledownloads.cn | United States
+74.125.131.26 | 25 | googlemail.com,google.com,1e100.net,smtp.goog | Finland
+142.250.113.102 | 443 | adsenseformobileapps.com,webmproject.org,cloud.google,picasaweb.org,gmbads.gle,webrtc.org,advertisercommunity.com,web.dev,thegooglestore.com,pixate.com,channel-app.google,golang.org,registry-sandbox.google,registry.google,cloudyoryx.dev,1e100.net,zynamics.com,google.com,projectgomie.google,fastlane.ci,research.youtube,crossmediapanel.com,lanternal.com,notebooklm.google,androidify.com,googlestore.com,hey.gle,songwriters.youtube,ampproject.com,travel.google,dataliberation.org,digitalassetlinks.org,crowdcalling.google,pki.goog,lers.google,macservice.goog,chronicle.security,picasaweb.com,searchingforsyria.org,grow.google,ordering.page,g.page,google.cn,sprayscape.com,abc.xyz,googlecert.net,workinxr.dev,liftware.jp,go-lang.com,ampproject.org,iamremarkable.org,golang.net,domains.google,ampproject.net,picnik.com,brocaproject.com,picasaweb.net,registry-qa.google,xn--ngstr-lra8j.com,ampcache.com,savethedate.foo,g.dev,tfhub.dev,floonet.goog,bazel.build,go-lang.net,adsense.com,identityplatform.google,waze.com,goo.gl,app-ads-services.com,xplr.co,googleblog.com,eageroryx.dev,chroniclesec.com,adsensecustomsearchads.com,go-lang.org,play.space,chronicleforgood.com,tiltbrush.com,ok.gle,webpkgcache.com,hats.goog,nel.goog,duetai.google,earlydays.google,golang.com,nomulus.foo,liftware.com,rbm.goog,makersuite.google | United States
+172.253.115.27 | 25 | googlemail.com,google.com,smtp.goog,1e100.net | United States
+104.133.128.69 | 10134 | google.com | United States
+104.133.128.218 | 5222 | google.com | United States
+104.133.128.99 | 32400 | google.com | United States
+72.14.229.179 | 443 | google.com | Taiwan
+104.133.128.143 | 9993 | google.com | United States
+159.138.119.35 | 8443 | google.com,afc.cl | Chile
+104.133.128.7 | 8086 | google.com | United States
+142.251.116.138 | 443 | googleoptimize-cn.com,gkecnapps.cn,googletraveladservices-cn.com,youtube.com,youtu.be,youtubeeducation.com,gvt2-cn.com,urchin.com,doubleclick.cn,googlesandbox-cn.com,ggpht.cn,widevine.cn,ampproject.net.cn,google.com,admob-cn.com,googletagmanager-cn.com,googlevads-cn.com,googleadservices-cn.com,googlecommerce.com,youtubekids.com,googletagservices-cn.com,recaptcha-cn.net,goo.gl,googlesyndication-cn.com,googleapis-cn.com,dartsearch-cn.net,yt.be,googlecnapps.cn,app-measurement-cn.com,recaptcha.net.cn,ampproject.org.cn,android.com,doubleclick-cn.net,google-analytics-cn.com,1e100.net,googleapps-cn.com,gvt1-cn.com,googleflights-cn.net,2mdn-cn.net,google-analytics.com,g.cn,g.co,googledownloads.cn | United States
+103.206.152.16 | 80 | google.com | Mongolia
+104.133.128.64 | 14265 | google.com | United States
+2607:f8b0:4023:1004::84 | 443 | googleusercontent.com,googleapis.com,ggpht.com,googleweblight.com,blogspot.com,google.com,translate.goog,doubleclickusercontent.com,1e100.net,googledrive.com,usercontent.goog | United States
+104.133.128.111 | 3005 | google.com | United States
+104.133.128.36 | 53 | google.com | United States
+178.49.129.19 | 80 | google.com | Russian Federation
+104.133.128.43 | 4064 | google.com | United States
+104.133.128.222 | 32764 | google.com | United States
+104.133.128.238 | 82 | google.com | United States
+104.133.128.98 | 9047 | google.com | United States
+142.251.116.100 | 443 | googleoptimize-cn.com,gkecnapps.cn,googletraveladservices-cn.com,youtube.com,youtu.be,youtubeeducation.com,gvt2-cn.com,urchin.com,doubleclick.cn,googlesandbox-cn.com,ggpht.cn,widevine.cn,ampproject.net.cn,google.com,admob-cn.com,googletagmanager-cn.com,googlevads-cn.com,googleadservices-cn.com,googlecommerce.com,youtubekids.com,googletagservices-cn.com,recaptcha-cn.net,goo.gl,googlesyndication-cn.com,1e100.net,googleapis-cn.com,dartsearch-cn.net,yt.be,googlecnapps.cn,app-measurement-cn.com,recaptcha.net.cn,ampproject.org.cn,android.com,doubleclick-cn.net,google-analytics-cn.com,googleapps-cn.com,gvt1-cn.com,googleflights-cn.net,2mdn-cn.net,google-analytics.com,g.cn,g.co,googledownloads.cn | United States
+142.251.9.168 | 443 | googleplex.com,google.com,1e100.net | Belgium
+104.133.128.46 | 2443 | google.com | United States
+104.133.128.241 | 25105 | google.com | United States
+104.133.128.211 | 4150 | google.com | United States
+108.177.122.168 | 443 | 1e100.net,googleplex.com,google.com | United States
+104.133.128.19 | 3260 | google.com | United States
+104.133.128.1 | 2087 | google.com | United States
+146.19.143.100 | 444 | google.com | Estonia
+104.133.128.25 | 8035 | google.com | United States
+203.139.206.81 | 80 | google.com | Japan
+2001:4860:4806:: | 443 | googleoptimize-cn.com,gkecnapps.cn,googletraveladservices-cn.com,youtube.com,youtu.be,youtubeeducation.com,gvt2-cn.com,urchin.com,doubleclick.cn,googlesandbox-cn.com,ggpht.cn,widevine.cn,ampproject.net.cn,google.com,admob-cn.com,googletagmanager-cn.com,googlevads-cn.com,googleadservices-cn.com,googlecommerce.com,youtubekids.com,googletagservices-cn.com,recaptcha-cn.net,goo.gl,googlesyndication-cn.com,googleapis-cn.com,dartsearch-cn.net,yt.be,googlecnapps.cn,app-measurement-cn.com,recaptcha.net.cn,ampproject.org.cn,android.com,doubleclick-cn.net,google-analytics-cn.com,googleapps-cn.com,gvt1-cn.com,googleflights-cn.net,2mdn-cn.net,google-analytics.com,g.cn,g.co,googledownloads.cn | United States
+170.0.45.62 | 443 | ytimg.com,googleusercontent.com,google.com,xn--ngstr-lra8j.com | Brazil
+104.133.128.94 | 10134 | google.com | United States
+104.133.128.12 | 1433 | google.com | United States
+104.133.128.207 | 4445 | google.com | United States
+142.250.138.93 | 443 | googleoptimize-cn.com,gkecnapps.cn,googletraveladservices-cn.com,youtube.com,youtu.be,youtubeeducation.com,gvt2-cn.com,urchin.com,doubleclick.cn,googlesandbox-cn.com,ggpht.cn,widevine.cn,ampproject.net.cn,google.com,admob-cn.com,googletagmanager-cn.com,googlevads-cn.com,googleadservices-cn.com,googlecommerce.com,youtubekids.com,googletagservices-cn.com,recaptcha-cn.net,goo.gl,googlesyndication-cn.com,googleapis-cn.com,dartsearch-cn.net,yt.be,googlecnapps.cn,app-measurement-cn.com,recaptcha.net.cn,ampproject.org.cn,1e100.net,android.com,doubleclick-cn.net,google-analytics-cn.com,googleapps-cn.com,gvt1-cn.com,googleflights-cn.net,2mdn-cn.net,google-analytics.com,g.cn,g.co,googledownloads.cn | United States
+104.133.128.172 | 80 | google.com | United States
+85.18.30.44 | 443 | ytimg.com,googleusercontent.com,xn--ngstr-lra8j.com,google.com | Italy
+104.133.128.183 | 51106 | google.com | United States
+104.133.128.168 | 12000 | google.com | United States
+104.133.128.103 | 5357 | google.com | United States
+216.239.35.4 | 123 | google.com | United States
+104.133.128.151 | 993 | google.com | United States
+104.133.128.104 | 4157 | google.com | United States
+85.18.30.143 | 80 | google.com | Italy
+142.250.115.113 | 443 | googleoptimize-cn.com,gkecnapps.cn,googletraveladservices-cn.com,youtube.com,youtu.be,youtubeeducation.com,gvt2-cn.com,urchin.com,doubleclick.cn,googlesandbox-cn.com,ggpht.cn,widevine.cn,ampproject.net.cn,google.com,admob-cn.com,googletagmanager-cn.com,googlevads-cn.com,googleadservices-cn.com,googlecommerce.com,youtubekids.com,googletagservices-cn.com,recaptcha-cn.net,goo.gl,googlesyndication-cn.com,1e100.net,googleapis-cn.com,dartsearch-cn.net,yt.be,googlecnapps.cn,app-measurement-cn.com,recaptcha.net.cn,ampproject.org.cn,android.com,doubleclick-cn.net,google-analytics-cn.com,googleapps-cn.com,gvt1-cn.com,googleflights-cn.net,2mdn-cn.net,google-analytics.com,g.cn,g.co,googledownloads.cn | United States
+96.20.0.190 | 80 | google.com | Canada
+142.250.113.113 | 443 | googleoptimize-cn.com,gkecnapps.cn,googletraveladservices-cn.com,youtube.com,youtu.be,youtubeeducation.com,gvt2-cn.com,urchin.com,doubleclick.cn,googlesandbox-cn.com,ggpht.cn,widevine.cn,ampproject.net.cn,google.com,admob-cn.com,googletagmanager-cn.com,googlevads-cn.com,googleadservices-cn.com,googlecommerce.com,youtubekids.com,googletagservices-cn.com,1e100.net,recaptcha-cn.net,goo.gl,googlesyndication-cn.com,googleapis-cn.com,dartsearch-cn.net,yt.be,googlecnapps.cn,app-measurement-cn.com,recaptcha.net.cn,ampproject.org.cn,android.com,doubleclick-cn.net,google-analytics-cn.com,googleapps-cn.com,gvt1-cn.com,googleflights-cn.net,2mdn-cn.net,google-analytics.com,g.cn,g.co,googledownloads.cn | United States
+104.133.128.221 | 771 | google.com | United States
+66.49.197.8 | 443 | stephanielassalle.com | Canada
+104.133.128.124 | 3104 | google.com | United States
+104.133.128.193 | 55554 | google.com | United States
+104.133.128.146 | 666 | google.com | United States
+194.152.37.254 | 443 | ytimg.com,googleusercontent.com,google.com,xn--ngstr-lra8j.com | Kyrgyzstan
+104.133.128.54 | 18081 | google.com | United States
+104.133.128.213 | 11300 | google.com | United States
+104.133.128.23 | 4664 | google.com | United States
+203.171.242.14 | 443 | ytimg.com,googleusercontent.com,google.com,xn--ngstr-lra8j.com | India
+142.251.116.102 | 443 | 1e100.net | United States
+104.133.128.5 | 8248 | google.com | United States
+104.133.128.116 | 2404 | google.com | United States
+142.250.115.101 | 443 | googleoptimize-cn.com,gkecnapps.cn,googletraveladservices-cn.com,youtube.com,youtu.be,youtubeeducation.com,gvt2-cn.com,urchin.com,doubleclick.cn,googlesandbox-cn.com,ggpht.cn,widevine.cn,ampproject.net.cn,google.com,admob-cn.com,googletagmanager-cn.com,googlevads-cn.com,googleadservices-cn.com,googlecommerce.com,youtubekids.com,googletagservices-cn.com,recaptcha-cn.net,goo.gl,googlesyndication-cn.com,googleapis-cn.com,dartsearch-cn.net,yt.be,googlecnapps.cn,1e100.net,app-measurement-cn.com,recaptcha.net.cn,ampproject.org.cn,android.com,doubleclick-cn.net,google-analytics-cn.com,googleapps-cn.com,gvt1-cn.com,googleflights-cn.net,2mdn-cn.net,google-analytics.com,g.cn,g.co,googledownloads.cn | United States
+104.133.128.167 | 1400 | google.com | United States
+49.12.108.116 | 80 | google.com | Germany
+104.133.128.187 | 5321 | google.com | United States
+104.133.128.251 | 2008 | google.com | United States
+104.133.128.20 | 11 | google.com | United States
+2607:f8b0:4023:1000::71 | 443 | googleoptimize-cn.com,gkecnapps.cn,googletraveladservices-cn.com,youtube.com,youtu.be,youtubeeducation.com,gvt2-cn.com,urchin.com,doubleclick.cn,googlesandbox-cn.com,ggpht.cn,widevine.cn,ampproject.net.cn,google.com,admob-cn.com,googletagmanager-cn.com,googlevads-cn.com,googleadservices-cn.com,googlecommerce.com,youtubekids.com,googletagservices-cn.com,1e100.net,recaptcha-cn.net,goo.gl,googlesyndication-cn.com,googleapis-cn.com,dartsearch-cn.net,yt.be,googlecnapps.cn,app-measurement-cn.com,recaptcha.net.cn,ampproject.org.cn,android.com,doubleclick-cn.net,google-analytics-cn.com,googleapps-cn.com,gvt1-cn.com,googleflights-cn.net,2mdn-cn.net,google-analytics.com,g.cn,g.co,googledownloads.cn | United States
+104.133.128.54 | 2455 | google.com | United States
+104.133.128.12 | 11 | google.com | United States
+104.133.128.217 | 5201 | google.com | United States
+104.133.128.214 | 8728 | google.com | United States
+104.133.128.160 | 9101 | google.com | United States
+74.125.196.14 | 25 | googlemail.com,google.com,smtp.goog,1e100.net | United States
+104.133.128.9 | 8291 | google.com | United States
+2607:f8b0:4023:1009::81 | 443 | googleplex.com,google.com,1e100.net | United States
+104.133.128.250 | 37777 | google.com | United States
+198.92.97.44 | 80 | google.com | United States
+220.122.1.204 | 80 | google.com | Korea, Republic of
+104.133.128.90 | 9189 | google.com | United States
+104.133.128.4 | 3075 | google.com | United States
+104.133.128.200 | 444 | google.com | United States
+104.133.128.207 | 2000 | google.com | United States
+104.133.128.236 | 3101 | google.com | United States
