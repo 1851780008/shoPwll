@@ -5,11 +5,12 @@ import sys
 import shodan
 import os
 import time
+import math
 import json
 from config import api_key,Save_Path
 from rich import print
 
-def print_nested_dict(indent, d, result):
+def print_nested_dict(indent, d, result): 
     for key, value in d.items():
         if isinstance(value, dict):
             result.append("  " * indent + f"{key}:")
@@ -40,24 +41,30 @@ class Shodan:
         if total == 0:
             sys.exit("没有搜索到结果，请检查关键词！！")
         self.limit = int(input("[*] 请输入你需要的数量:").strip())
+        page = math.ceil(self.limit / 1000) 
+        
         try:
-            context = api.search(query=self.query,offset=0,limit=self.limit)
+            for i in range(1, page + 1):
+                # 每次搜索的limit为1000或者剩余的数量，取较小者
+                current_limit = min(self.limit, 1000)
+                # 执行搜索并更新context
+                context = api.search(self.query, offset=0, page=i, limit=current_limit)
+                # 更新剩余需要搜索的数量
+                self.limit -= current_limit
+                if 'matches' in context:
+                    for match in context['matches']:
+                        print("--------------------------\n")
+                        answer = match.get('ip_str') 
+                        answer += '|' + str(match.get('port'))
+                        answer += '|' + str(match.get('domains'))
+                        answer += '|' + str(match.get('location').get('country_name'))
+                        self.result.append(answer)
+                        # print(ip_port)
+                else:
+                    self.result = []
         except Exception as e:
             pass
-        if 'matches' in context:
-            print(context)
-            for match in context['matches']:
-                print("--------------------------\n")
-                answer = match.get('ip_str') 
-                answer += '|' + str(match.get('port'))
-                answer += '|' + str(match.get('domains'))
-                answer += '|' + str(match.get('location').get('country_name'))
-                self.result.append(answer)
-                # print(ip_port)
-        else:
-            self.result = []
         self.save()
-
 
     def login(self):
         self.api_key = api_key
