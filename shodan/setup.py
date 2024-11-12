@@ -156,51 +156,60 @@ class MyWindow(QtWidgets.QMainWindow, Ui_MainWindow):
                 f'发生错误: {e}'
             )
 
+    def combine_all_matches(self, results_list):
+        all_matches = []
+        for result in results_list:
+            if 'matches' in result:
+                all_matches.extend(result['matches'])
+        return all_matches
 
-    def shodan_threadSend(self, search_host, page):
+    def shodan_threadSend(self, search_host, Page):
             try:
-                results = self.api.search(search_host, page=page)  # 搜索apache，返回 JSON格式的数据
-                print("Results found:" + str(results['total']))
-                total = str(results['total'])
-                
-                self.count_label.setText(total + ' ' + '条')
-                self.log_out.append('已找到：' + total + ' 条结果' + '\n')
-
+                page = 1
+                total = '-1'
                 self.ip11 = []
                 self.port11 = []
                 self.domain11 = []
                 self.country11 = []
+                while True:
+                    results = self.api.search(search_host, page=page, limit=1000)
+                    if(total == '-1'):
+                        total = str(results['total'])
+                    for result in results['matches']:
+                        ip_str1 = result['ip_str']
+                        port1 = result['port']
+                        domains1 = result['domains']
+                        country_name1 = result['location']['country_name']
 
-                for result in results['matches']:
-                    ip_str1 = result['ip_str']
-                    port1 = result['port']
-                    domains1 = result['domains']
-                    country_name1 = result['location']['country_name']
+                        row = self.result_out.rowCount()  # 获取所有列
+                        print(row)
+                        self.result_out.insertRow(row)  # 插入row
+                        item = QTableWidgetItem()
+                        item.setText(str(ip_str1))
+                        item1 = QTableWidgetItem()
+                        item1.setText(str(port1))
+                        item2 = QTableWidgetItem()
+                        item2.setText(','.join(domains1))
+                        item3 = QTableWidgetItem()
+                        item3.setText(str(country_name1))
 
-                    row = self.result_out.rowCount()  # 获取所有列
-                    self.result_out.insertRow(row)  # 插入row
-                    item = QTableWidgetItem()
-                    item.setText(str(ip_str1))
-                    item1 = QTableWidgetItem()
-                    item1.setText(str(port1))
-                    item2 = QTableWidgetItem()
-                    item2.setText(','.join(domains1))
-                    item3 = QTableWidgetItem()
-                    item3.setText(str(country_name1))
+                        self.result_out.setItem(row, 0, item)
+                        self.result_out.setItem(row, 1, item1)
+                        self.result_out.setItem(row, 2, item2)
+                        self.result_out.setItem(row, 3, item3)
 
-
-                    self.result_out.setItem(row, 0, item)
-                    self.result_out.setItem(row, 1, item1)
-                    self.result_out.setItem(row, 2, item2)
-                    self.result_out.setItem(row, 3, item3)
-
-
-                    self.ip11.append(ip_str1)
-                    self.port11.append(port1)
-                    self.domain11.append(','.join(domains1))
-                    self.country11.append(country_name1)
-
-
+                        self.ip11.append(ip_str1)
+                        self.port11.append(port1)
+                        self.domain11.append(','.join(domains1))
+                        self.country11.append(country_name1)
+                    if results['matches']:
+                        page += 1
+                        if page > int(Page):
+                            break
+                    else:
+                        break
+                self.count_label.setText(total + ' ' + '条')
+                self.log_out.append('已找到：' + total + ' 条结果' + '\n')
 
             except shodan.APIError as e:
                 self.log_out.append('shodan提示：' + str(e) + '\n' + '-' * 29)
@@ -233,43 +242,41 @@ class MyWindow(QtWidgets.QMainWindow, Ui_MainWindow):
         choice = QMessageBox.question(
             self,
             '确认',
-            '确定导出吗？')
-
+            '确定导出吗？'
+        )
         try:
             if choice == QMessageBox.Yes:
                 t = time.time()
                 self.date_time = time.strftime("%Y-%m-%d-%H-%M-%S", time.localtime(t))
-                ids = list(set(self.ip11))
-                content_list = []
-                for i in range(len(ids)):
-                    content = [self.ip11[i], self.port11[i], self.domain11[i], self.country11[i]]
-                    content_list.append(content)
-                # 假设self.date_time是日期时间的字符串
+                # 使用self.results而不是self.ip11等变量
                 folder = "../output"  # 目标文件夹
                 os.makedirs(folder, exist_ok=True)  # 创建文件夹，如果文件夹已存在不会抛出错误
 
-                file_nn=self.search_in.text().replace(":", "_").replace(" ", "_").replace('"', '0')
-                # 输出文件的完整路径
+                file_nn = self.search_in.text().replace(":", "_").replace(" ", "_").replace('"', '0')
                 file_path = os.path.join(folder, f"{file_nn}.txt")
 
-                if len(content_list) > 0:
+                len_1 = len(self.ip11)
+                if len_1 > 0:
                     with open(file_path, "w", newline='', encoding='utf-8') as f:
-                        for row in content_list:
-                            try:
-                                # 将每一行的数据用 " | " 连接起来，写入文件
-                                f.write(" | ".join(str(item) for item in row) + "\n")
-                            except UnicodeEncodeError:
-                                continue
+                        index = 0  # 初始化索引
+
+                        # 使用 while 循环遍历列表
+                        while index < len_1:
+                            # 将当前元素写入文件
+                            f.write(str(self.ip11[index]) + '|' + str(self.port11[index]) + '|' + str(self.domain11[index]) + '|' + str(self.country11[index]) + '\n')  # 每个元素后添加换行符
+                            index += 1  # 移动到下一个元素
 
                     QMessageBox.information(
                         self,
                         '完成',
-                        '导出成功，请在软件目录下查看')
+                        '导出成功，请在软件目录下查看'
+                    )
                 else:
                     QMessageBox.information(
                         self,
                         '提示',
-                        '导出失败，没有可导出的数据！')
+                        '导出失败，没有可导出的数据！'
+                    )
 
             elif choice == QMessageBox.No:
                 pass
@@ -278,8 +285,8 @@ class MyWindow(QtWidgets.QMainWindow, Ui_MainWindow):
             QMessageBox.information(
                 self,
                 '提示',
-                f'导出失败: {e}，请重试！')
-
+                f'导出失败: {e}，请重试！'
+            )
 
 if __name__ == '__main__':
     QtCore.QCoreApplication.setAttribute(QtCore.Qt.AA_EnableHighDpiScaling)

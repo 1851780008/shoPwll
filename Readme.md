@@ -14,7 +14,7 @@ git clone https://github.com/IdealToFly/shoPwll.git
 
 ### setup.py：整个项目的中央处理器，提供后端支持和前端数据交互功能
 
-### Gather.py：通过api接口爬虫技术进行数据库的建设
+### Gather.py：实现CLI爬虫进行数据库的建设
 
 ### output：项目的数据库，以txt格式保存数据
 
